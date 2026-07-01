@@ -1,4 +1,4 @@
-# Hi, I'm Nanepalli Jeevana
+# Hi, I'm Jeevana Nanepalli
 
 I am a B.Tech Computer Science Engineering student specializing in Data Science at CMR College of Engineering and Technology, Hyderabad. I am expected to graduate in 2029.
 
